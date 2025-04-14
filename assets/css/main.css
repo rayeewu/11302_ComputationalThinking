@@ -85,6 +85,7 @@ h5,
 h6 {
   color: var(--heading-color);
   font-family: var(--heading-font);
+  margin-top: 10px;
 }
 
 /* PHP Email Form Messages
